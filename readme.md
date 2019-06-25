@@ -2,6 +2,8 @@
 
 Uses node-vibrant to extract prominent colors.
 
+<img src="https://github.com/newtonmunene99/prominent-colors/blob/master/Screenshot.png" alt="screenshot"></img>
+
 ## Getting Started
 
 run:
@@ -21,5 +23,3 @@ To build the app for production, run:
 ```bash
 npm run build
 ```
-
-T
