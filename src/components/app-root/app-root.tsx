@@ -10,7 +10,7 @@ export class AppRoot {
     return (
       <div>
         <header>
-          <h1>Color Palette</h1>
+          <h1>Prominent Colors</h1>
         </header>
 
         <main>
